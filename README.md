@@ -51,7 +51,7 @@ eepycloud = {
 
 | &nbsp; | Project | Lore |
 |--------|---------|------|
-| 🩺 | **[Aoun — Cancer Patient Monitor](https://github.com/eepycloud)** *(coming soon)* | Built an AI that classifies cancer patient risk with 92% accuracy on 743K souls. RAG chatbot + facial wellness detection. The final boss of my degree. |
+| 🩺 | **[Aoun — Cancer Patient Monitor](https://github.com/eepycloud)** | Built an AI that classifies cancer patient risk with 92% accuracy on 743K souls. RAG chatbot + facial wellness detection. The final boss of my degree. |
 | 📡 | **[Telecom Complaints ML](https://github.com/eepycloud/Telecom-Complaints-Data-Processing)** | Summoned 5 classifiers into battle (RF, SVM, KNN, LR, DT) against real telecom complaint data. May the best model win. |
 | 🔐 | **[Network Security Analytics](https://github.com/eepycloud/Network-Security-Predictive-and-Prescriptive-Analytics)** | Predicted network attack metrics using regression + used GA/PSO to optimize risk scores. Dark magic? Perhaps. |
 | 🤖 | **[WAll-e Surveillance Robot](https://github.com/eepycloud/wall-e-surveillance-robot)** | Autonomous Raspberry Pi 5 robot. It dodges obstacles, snaps photos, and sends Telegram alerts. Built different. |
