@@ -79,20 +79,6 @@ eepycloud = {
 ╚══════════════════════════════════════════════════╝
 ```
 
----
-
-<div align="center">
-
-### 📊 &nbsp; Stats &nbsp; �227
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eepycloud&show_icons=true&theme=nord&hide_border=true&title_color=C89B3C&icon_color=C89B3C&text_color=C8AA6E&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eepycloud&layout=compact&theme=nord&hide_border=true&title_color=C89B3C&text_color=C8AA6E&bg_color=0D1117)
-
-</div>
-
----
-
 <div align="center">
 
 ### 📜 &nbsp; Certificates Collected &nbsp; 📜
