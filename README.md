@@ -37,17 +37,14 @@
 
 ```python
 eepycloud = {
-    "class":      "Data Scientist / AI Developer",
-    "level":       3,   # year in uni
-    "university": "Applied Science University, Jordan",
-    "souls":       97,  # GP1 score — not leaving til it's 100
-    "status":     "grinding GP2 boss fight 🐉",
-    "weapons": [
-        "Python", "scikit-learn", "FastAPI",
-        "ChromaDB", "OpenCV", "Flutter", "SQL"
-    ],
-    "current_quest": "Defeat the internship final boss @ Zain",
-    "respawn_point": "Amman, Jordan  🪔",
+    "class":         "Data Scientist / AI Developer",
+    "motto":         "Even in this darkened world... there are those who study the data.",
+    "origin":        "Amman, Jordan",
+    "affiliation":   "Frenzied Flame",
+    "weapons":       ["Python", "scikit-learn", "FastAPI", "ChromaDB", "OpenCV", "Flutter", "SQL"],
+    "playstyle":     "build things that actually run and break my back doing so",
+    "weakness":      "sleep is for the weak",
+    "respawn_point": "last life",
 }
 ```
 
