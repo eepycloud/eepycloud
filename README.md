@@ -2,10 +2,10 @@
 <div align="center">
 
 ```
-                                                              ╔══════════════════════════════════════════╗
-                                                              ║  "You... you're maidenless, are you not? ║
-                                                              ║   No matter. You'll find no maiden here. ║
-                                                              ║   Only code."                            ║
+                                                      ╔══════════════════════════════════════════╗
+                                                       ║  "You... you're maidenless, are you not? ║
+                                                      ║   No matter. You'll find no maiden here. ║
+                                                 ║   Only code."                            ║
                                                               ║                               — Varre   ║
                                                               ╚══════════════════════════════════════════╝
 ```
