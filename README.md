@@ -60,6 +60,29 @@ eepycloud = {
 
 <div align="center">
 
+### 🏆 &nbsp; Skill Tree &nbsp; 🏆
+
+</div>
+
+```
+╔══════════════════════════════════════════════════╗
+║              PASSIVE SKILLS UNLOCKED             ║
+╠══════════════════════════════════════════════════╣
+║  [████████████░░░]  Python           ★★★★☆    ║
+║  [█████████░░░░░░]  Machine Learning ★★★★☆    ║
+║  [████████░░░░░░░]  SQL / Databases  ★★★★☆    ║
+║  [███████░░░░░░░░]  Power BI/Tableau ★★★☆☆    ║
+║  [██████░░░░░░░░░]  Deep Learning    ★★★☆☆    ║
+║  [█████░░░░░░░░░░]  Flutter / Dart   ★★★☆☆    ║
+║  [████░░░░░░░░░░░]  RAG / LLMs       ★★★☆☆    ║
+║  [███░░░░░░░░░░░░]  IoT / Robotics   ★★★☆☆    ║
+╚══════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
 ### 📜 &nbsp; Certificates Collected &nbsp; 📜
 
 </div>
@@ -74,18 +97,6 @@ eepycloud = {
 ║ 🟡 Code  ║  Udemy — 100 Days of Code (Python)                ║
 ╚══════════╩═══════════════════════════════════════════════════╝
 ```
----
-
-<div align="center">
-
-### 📜 &nbsp; Certificates Collected &nbsp; 📜
-
-🔷 Microsoft Azure DP-900&nbsp;&nbsp;
-🟠 DataCamp Python Track&nbsp;&nbsp;
-🔴 Huawei ICT Academy AI & IoT&nbsp;&nbsp;
-🟡 Udemy 100 Days of Code
-
-</div>
 
 ---
 
