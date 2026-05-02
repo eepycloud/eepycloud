@@ -97,7 +97,7 @@ eepycloud = {
 
 ### 📜 &nbsp; Certificates Collected &nbsp; 📜
 
-🔷 Microsoft Azure DP-900 *(in progress)*&nbsp;&nbsp;
+🔷 Microsoft Azure DP-900&nbsp;&nbsp;
 🟠 DataCamp Python Track&nbsp;&nbsp;
 🔴 Huawei ICT Academy AI & IoT&nbsp;&nbsp;
 🟡 Udemy 100 Days of Code
