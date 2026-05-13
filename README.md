@@ -105,7 +105,7 @@ eepycloud = {
 ### 🔗 &nbsp; Summon Me &nbsp; 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eepycloud-C89B3C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mthaher/)
-[![Email](https://img.shields.io/badge/Email-contact-C89B3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:m.thaherjob@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact-C89B3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mohammadwthaher@outlook.com)
 
 <br/>
 
