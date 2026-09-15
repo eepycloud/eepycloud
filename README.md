@@ -111,7 +111,7 @@ eepycloud = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eepycloud-C89B3C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mthaher/)
 [![Email](https://img.shields.io/badge/Email-contact-C89B3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mohammadwthaher@outlook.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-C89B3C?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117)](https://public.tableau.com/app/profile/mohammad.thaher)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-C89B3C?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117)](https://public.tableau.com/app/profile/mthaher/vizzes)
 
 <br/>
 
