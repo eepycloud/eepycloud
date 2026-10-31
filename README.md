@@ -7,7 +7,7 @@
 <br/>
 I build ML systems end to end, from raw data to working applications.
 <br/>
-Currently forging: a real-time **fraud detection service** (LightGBM + FastAPI).
+Deployed: **[Fraud Detection Service](https://fraud-detection-service-srsh.onrender.com/)** — LightGBM + FastAPI, Docker, monitoring, and cloud tests.
 
 <br/>
 
@@ -32,8 +32,8 @@ eepycloud = {
     "class":         "Data Scientist / AI Developer",
     "origin":        "Amman, Jordan",
     "weapons":       ["Python", "scikit-learn", "LightGBM", "FastAPI", "ChromaDB",
-                      "OpenCV", "SQL", "Alteryx", "Tableau", "Power BI"],
-    "current_quest": "Fraud detection service: Docker and Azure next",
+                      "OpenCV", "SQL", "Alteryx", "Tableau", "Power BI", "Docker", "GitHub Actions"],
+    "current_quest": "Fraud service deployed on Render; monitoring and cloud retraining online",
     "playstyle":     "build things that actually run",
     "affiliation":   "Frenzied Flame",
 }
@@ -49,7 +49,7 @@ eepycloud = {
 
 | &nbsp; | Project | Lore |
 |--------|---------|------|
-| 🚨 | **[Fraud Detection Service](https://github.com/eepycloud/fraud-detection-service)** *(in progress)* | Took the fraud hunt from watching to striking: LightGBM on ~1.85M transactions (PR-AUC 0.871), served in real time through FastAPI. Docker and Azure next. |
+| 🚨 | **[Fraud Detection Service](https://github.com/eepycloud/fraud-detection-service)** · [Live demo](https://fraud-detection-service-srsh.onrender.com/) | Deployed LightGBM/FastAPI service with Docker on Render, transaction replay, SQLite prediction history, PSI drift monitoring, GitHub Actions tests, and cloud candidate retraining. Public simulated Sparkov data (~1.85M rows), no bank data; held-out PR-AUC **0.871**, precision **87.5%**, recall **76.4%**. PyTorch MLP benchmark: PR-AUC 0.814. |
 | 🩺 | **[Aoun, Cancer Patient Monitor](https://github.com/eepycloud/Aoun)** | Cancer patient monitoring system: 92% accurate RF classifier on 743K records, RAG chatbot, facial wellness detection. The final boss of my degree. |
 | 💳 | **[Credit Card Fraud Monitoring](https://github.com/eepycloud/credit-card-fraud-bi)** | Hunted fraud across ~1.85M transactions. Forged features in Alteryx, then lit the Tableau bonfire. [Live dashboard](https://public.tableau.com/views/credit-card-fraud-bi/Dashboard) |
 | 🛡️ | **[Bank Cyberattacks, MITRE ATT&CK](https://github.com/eepycloud/bank-attacks-mitre-analysis)** | Mapped bank attack scenarios to MITRE ATT&CK and scored detection coverage. Know thine enemy. [Live dashboard](https://public.tableau.com/views/bank-attacks-mitre-analysis/CyberAttackLandscape) |
@@ -68,10 +68,10 @@ eepycloud = {
 
 ```
 Languages     Python · SQL · Dart · Java · JavaScript · C
-ML / AI       scikit-learn · LightGBM · OpenCV · RAG · Mistral-7B (Ollama) · ChromaDB
-Backend       FastAPI · Pydantic · PostgreSQL · MySQL · Firebase · REST APIs
+ML / AI       scikit-learn · LightGBM · PyTorch · OpenCV · RAG · Mistral-7B (Ollama) · ChromaDB
+Backend       FastAPI · Pydantic · PostgreSQL · MySQL · SQLite · Firebase · REST APIs
 Data / BI     Alteryx · pandas · NumPy · Tableau · Power BI · Excel
-Tools         Git · Jupyter · VS Code · Postman · UiPath
+Tools         Git · Docker · GitHub Actions · Render · Jupyter · VS Code · Postman · UiPath
 Hardware      Raspberry Pi · Arduino
 ```
 
