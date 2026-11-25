@@ -7,7 +7,7 @@
 <br/>
 **AI Development & Integration Intern at Orange Innovation Hub** · November 2026–present
 <br/>
-I lead the AI workstream on a bilingual project. I designed the Arabic and English intake flow and built a Python backend that validates structured language-model responses.
+I lead the AI workstream on a bilingual project. I designed the intake flow and built a Python backend that validates structured language-model responses. My offline test harness verified 16 plan and story drafts against their schemas across eight synthetic Arabic and English scenarios. I also tested a local Ollama adapter with simulated responses. The adapter is under review.
 <br/>
 I'm looking for junior AI engineering and data science roles where I can build, test, and deploy models.
 <br/>
