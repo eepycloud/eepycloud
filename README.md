@@ -5,7 +5,11 @@
 
 **Mohammad Thaher** · Data Science & AI graduate (ASU, 2026) · Amman, Jordan
 <br/>
-I build ML systems end to end, from raw data to working applications.
+**AI Development & Integration Intern at Orange Innovation Hub** · November 2026–present
+<br/>
+I lead the AI workstream on a bilingual project. I designed the Arabic and English intake flow and built a Python backend that validates structured language-model responses.
+<br/>
+I'm looking for junior AI engineering and data science roles where I can build, test, and deploy models.
 <br/>
 Deployed: **[Fraud Detection Service](https://fraud-detection-service-srsh.onrender.com/)** — LightGBM + FastAPI, Docker, monitoring, and cloud tests.
 
@@ -29,11 +33,11 @@ Deployed: **[Fraud Detection Service](https://fraud-detection-service-srsh.onren
 
 ```python
 eepycloud = {
-    "class":         "Data Scientist / AI Developer",
+    "class":         "AI Developer / Data Scientist",
     "origin":        "Amman, Jordan",
     "weapons":       ["Python", "scikit-learn", "LightGBM", "FastAPI", "ChromaDB",
                       "OpenCV", "SQL", "Alteryx", "Tableau", "Power BI", "Docker", "GitHub Actions"],
-    "current_quest": "Fraud service deployed on Render; monitoring and cloud retraining online",
+    "current_quest": "Building and testing bilingual AI workflows at Orange Innovation Hub",
     "playstyle":     "build things that actually run",
     "affiliation":   "Frenzied Flame",
 }
