@@ -18,7 +18,7 @@ Location    Orange Innovation Hub, AI Development & Integration Intern
 Status      awake (barely)
 ```
 
-Currently leading the AI workstream on a bilingual Arabic/English platform for young children: intake flow, a Python backend that keeps LLM output inside strict JSON schemas, and an offline harness that tests all of it first.
+Currently leading the AI workstream on a bilingual Arabic/English platform for young children: the intake flow, a NestJS (TypeScript) AI service that keeps LLM output inside strict JSON schemas, and a Python story-generation pipeline with its own schema and language validator. Both run on local models via Ollama.
 
 Looking for junior AI engineering and data science roles.
 
