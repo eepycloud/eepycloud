@@ -1,54 +1,77 @@
-### Mohammad Thaher
+<div align="center">
 
-Data Science & AI graduate (ASU, 2026), based in Amman. I build models and make sure they actually run.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=C9A227&center=true&vCenter=true&width=560&lines=Mohammad+Thaher;Data+Science+%26+AI+graduate;builds+models+that+actually+run;currently+seeking+souls+(and+a+job))](https://github.com/eepycloud)
 
-Currently an **AI Development & Integration Intern at Orange Innovation Hub**, leading the AI workstream on a bilingual (Arabic/English) child-development platform. I designed the intake flow, built a Python backend that validates structured LLM responses against JSON schemas, and wrote an offline test harness that checks generated drafts across synthetic Arabic and English scenarios.
+<sub><i>"Even in this darkened world... there are those who study the data."</i></sub>
 
-Open to junior AI engineering and data science roles.
+</div>
+
+---
+
+### `> whoami`
+
+Data Science & AI graduate (ASU, 2026). Amman, Jordan.
+
+Right now I'm an **AI Development & Integration Intern at Orange Innovation Hub**, running the AI side of a bilingual (Arabic/English) child-development platform. Designed the intake flow, built a Python backend that keeps LLM outputs in line with strict JSON schemas, and wrote an offline harness that tests it all before anything reaches a real user.
+
+Open to junior AI engineering and data science roles. Will deploy for food.
 
 ```python
 eepycloud = {
-    "role":      "AI Developer / Data Scientist",
-    "based_in":  "Amman, Jordan",
-    "stack":     ["Python", "scikit-learn", "LightGBM", "FastAPI", "Docker",
-                  "SQL", "Alteryx", "Tableau", "Power BI"],
-    "now":       "bilingual AI workflows @ Orange Innovation Hub",
-    "approach":  "build things that actually run",
+    "class":         "AI Developer / Data Scientist",
+    "origin":        "Amman, Jordan",
+    "weapons":       ["Python", "scikit-learn", "LightGBM", "FastAPI", "ChromaDB", "OpenCV",
+                      "SQL", "Alteryx", "Tableau", "Power BI", "Docker", "GitHub Actions"],
+    "current_quest": "bilingual AI workflows @ Orange Innovation Hub",
+    "playstyle":     "build things that actually run",
+    "affiliation":   "Frenzied Flame",
+    "status":        "hollowing slowly, deploying anyway",
 }
 ```
 
 ---
 
-#### Selected work
+### `> ls ./quests`
 
 **[Fraud Detection Service](https://github.com/eepycloud/fraud-detection-service)** · [live demo](https://fraud-detection-service-srsh.onrender.com/)\
-LightGBM model served with FastAPI and Docker on Render, with transaction replay, prediction history, PSI drift monitoring, and GitHub Actions for tests and retraining. Trained on public simulated data (~1.85M rows). Held-out PR-AUC 0.871, precision 87.5%, recall 76.4%.
+LightGBM + FastAPI, containerized with Docker and deployed on Render. Transaction replay, prediction history, PSI drift monitoring, and GitHub Actions handling tests and retraining. ~1.85M simulated transactions, no real bank data harmed.\
+`PR-AUC 0.871` · `precision 87.5%` · `recall 76.4%` · beat the PyTorch MLP (0.814) fair and square.
 
-**[Aoun](https://github.com/eepycloud/Aoun)**\
-Graduation project. Cancer patient monitoring prototype: Random Forest risk classifier, local Mistral-7B RAG chatbot (Ollama + ChromaDB), experimental OpenCV analysis, and a Flutter app on FastAPI/PostgreSQL. Not clinically validated.
+**[Aoun](https://github.com/eepycloud/Aoun)** · *the final boss of my degree*\
+Cancer patient monitoring prototype. Random Forest risk classifier, a local Mistral-7B RAG chatbot (Ollama + ChromaDB), experimental OpenCV facial analysis, and a 13-screen Flutter app on FastAPI/PostgreSQL. Academic prototype, not clinically validated. Still took three phases to beat.
 
-**BI dashboards** (Alteryx + Tableau)
-- [Credit Card Fraud Monitoring](https://github.com/eepycloud/credit-card-fraud-bi) · [dashboard](https://public.tableau.com/views/credit-card-fraud-bi/Dashboard)
-- [Bank Cyberattacks × MITRE ATT&CK](https://github.com/eepycloud/bank-attacks-mitre-analysis) · [dashboard](https://public.tableau.com/views/bank-attacks-mitre-analysis/CyberAttackLandscape)
-- [Olist E-Commerce Analytics](https://github.com/eepycloud/olist-ecommerce-analytics) · [dashboard](https://public.tableau.com/views/olist-ecommerce-analytics_17894741849530/Dashboard1)
+**BI dashboards** · *forged in Alteryx, lit in Tableau*
+- [Credit Card Fraud Monitoring](https://github.com/eepycloud/credit-card-fraud-bi) · [dashboard](https://public.tableau.com/views/credit-card-fraud-bi/Dashboard): hunted fraud across ~1.85M transactions.
+- [Bank Cyberattacks × MITRE ATT&CK](https://github.com/eepycloud/bank-attacks-mitre-analysis) · [dashboard](https://public.tableau.com/views/bank-attacks-mitre-analysis/CyberAttackLandscape): mapped attacks to techniques and scored the defenses. Know thine enemy.
+- [Olist E-Commerce](https://github.com/eepycloud/olist-ecommerce-analytics) · [dashboard](https://public.tableau.com/views/olist-ecommerce-analytics_17894741849530/Dashboard1): nine tables walked in, one dataset walked out.
 
-**Older**\
-[Telecom complaints classification](https://github.com/eepycloud/Telecom-Complaints-Data-Processing) · [Network security analytics](https://github.com/eepycloud/Network-Security-Predictive-and-Prescriptive-Analytics) · [WALL-E robot](https://github.com/eepycloud/wall-e-surveillance-robot)
+**Side quests**
+- [Telecom Complaints ML](https://github.com/eepycloud/Telecom-Complaints-Data-Processing): five classifiers entered, one left.
+- [Network Security Analytics](https://github.com/eepycloud/Network-Security-Predictive-and-Prescriptive-Analytics): predicted attack metrics, then let GA/PSO optimize the risk away.
+- [WALL-E](https://github.com/eepycloud/wall-e-surveillance-robot): Raspberry Pi 5 robot that dodges walls and snitches on Telegram.
+
+---
+
+### `> cat inventory.txt`
+
+```
+languages   Python · SQL · Dart · Java · JavaScript · C
+ml / ai     scikit-learn · LightGBM · PyTorch · OpenCV · RAG · LLMs · ChromaDB
+backend     FastAPI · Pydantic · PostgreSQL · MySQL · SQLite · Firebase
+data / bi   pandas · NumPy · Alteryx · Tableau · Power BI · Excel
+tools       Git · Docker · GitHub Actions · Render · Jupyter · UiPath
+hardware    Raspberry Pi · Arduino
+
+relics      Azure DP-900 · AWS Cloud Foundations · UiPath Automation Dev · Huawei AI & IoT
+scroll      "Big Data Pipeline: An Overview of Ingestion and Preparation Tools" (2025)
+```
 
 ---
 
-#### Stack
-
-**Languages** Python, SQL, Dart, Java, JavaScript, C\
-**ML / AI** scikit-learn, LightGBM, PyTorch, OpenCV, RAG, LLM integration, ChromaDB\
-**Backend** FastAPI, Pydantic, PostgreSQL, MySQL, SQLite, Firebase\
-**Data / BI** pandas, NumPy, Alteryx, Tableau, Power BI\
-**Tools** Git, Docker, GitHub Actions, Render, Jupyter, UiPath
-
-**Certs** Azure Data Fundamentals (DP-900) · AWS Cloud Foundations · UiPath Automation Developer · Huawei AI & IoT
-
----
+<div align="center">
 
 [LinkedIn](https://linkedin.com/in/mthaher) · [Email](mailto:mohammadwthaher@outlook.com) · [Tableau Public](https://public.tableau.com/app/profile/mthaher)
 
-<sub>"Even in this darkened world... there are those who study the data."</sub>
+<sub><i>"The bearer of the curse seeks souls... and a job."</i></sub>
+
+</div>
