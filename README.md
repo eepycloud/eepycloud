@@ -1,120 +1,54 @@
-<!-- HEADER -->
-<div align="center">
+### Mohammad Thaher
 
-# eepycloud
+Data Science & AI graduate (ASU, 2026), based in Amman. I build models and make sure they actually run.
 
-**Mohammad Thaher** · Data Science & AI graduate (ASU, 2026) · Amman, Jordan
-<br/>
-**AI Development & Integration Intern at Orange Innovation Hub** · November 2026–present
-<br/>
-I lead the AI workstream on a bilingual project. I designed the intake flow and built a Python backend that validates structured language-model responses. My offline test harness verified 16 plan and story drafts against their schemas across eight synthetic Arabic and English scenarios. I also tested a local Ollama adapter with simulated responses. The adapter is under review.
-<br/>
-I'm looking for junior AI engineering and data science roles where I can build, test, and deploy models.
-<br/>
-Deployed: **[Fraud Detection Service](https://fraud-detection-service-srsh.onrender.com/)** — LightGBM + FastAPI, Docker, monitoring, and cloud tests.
+Currently an **AI Development & Integration Intern at Orange Innovation Hub**, leading the AI workstream on a bilingual (Arabic/English) child-development platform. I designed the intake flow, built a Python backend that validates structured LLM responses against JSON schemas, and wrote an offline test harness that checks generated drafts across synthetic Arabic and English scenarios.
 
-<br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=C89B3C&center=true&vCenter=true&width=600&lines=You+Died.;...but+you+kept+coding.;Bonfire+lit+%F0%9F%94%A5;Bearer+of+the+Curse+%7C+Data+Scientist;Praise+the+Sun+%5C%5BT%5D%2F" alt="Typing SVG" /></a>
-
-<br/>
-
-> *"Even in this darkened world... there are those who study the data."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⚔️ &nbsp; Current Build &nbsp; ⚔️
-
-</div>
+Open to junior AI engineering and data science roles.
 
 ```python
 eepycloud = {
-    "class":         "AI Developer / Data Scientist",
-    "origin":        "Amman, Jordan",
-    "weapons":       ["Python", "scikit-learn", "LightGBM", "FastAPI", "ChromaDB",
-                      "OpenCV", "SQL", "Alteryx", "Tableau", "Power BI", "Docker", "GitHub Actions"],
-    "current_quest": "Building and testing bilingual AI workflows at Orange Innovation Hub",
-    "playstyle":     "build things that actually run",
-    "affiliation":   "Frenzied Flame",
+    "role":      "AI Developer / Data Scientist",
+    "based_in":  "Amman, Jordan",
+    "stack":     ["Python", "scikit-learn", "LightGBM", "FastAPI", "Docker",
+                  "SQL", "Alteryx", "Tableau", "Power BI"],
+    "now":       "bilingual AI workflows @ Orange Innovation Hub",
+    "approach":  "build things that actually run",
 }
 ```
 
 ---
 
-<div align="center">
+#### Selected work
 
-### 🗺️ &nbsp; Project Lore &nbsp; 🗺️
+**[Fraud Detection Service](https://github.com/eepycloud/fraud-detection-service)** · [live demo](https://fraud-detection-service-srsh.onrender.com/)\
+LightGBM model served with FastAPI and Docker on Render, with transaction replay, prediction history, PSI drift monitoring, and GitHub Actions for tests and retraining. Trained on public simulated data (~1.85M rows). Held-out PR-AUC 0.871, precision 87.5%, recall 76.4%.
 
-</div>
+**[Aoun](https://github.com/eepycloud/Aoun)**\
+Graduation project. Cancer patient monitoring prototype: Random Forest risk classifier, local Mistral-7B RAG chatbot (Ollama + ChromaDB), experimental OpenCV analysis, and a Flutter app on FastAPI/PostgreSQL. Not clinically validated.
 
-| &nbsp; | Project | Lore |
-|--------|---------|------|
-| 🚨 | **[Fraud Detection Service](https://github.com/eepycloud/fraud-detection-service)** · [Live demo](https://fraud-detection-service-srsh.onrender.com/) | Deployed LightGBM/FastAPI service with Docker on Render, transaction replay, SQLite prediction history, PSI drift monitoring, GitHub Actions tests, and cloud candidate retraining. Public simulated Sparkov data (~1.85M rows), no bank data; held-out PR-AUC **0.871**, precision **87.5%**, recall **76.4%**. PyTorch MLP benchmark: PR-AUC 0.814. |
-| 🩺 | **[Aoun, Cancer Patient Monitor](https://github.com/eepycloud/Aoun)** | Academic cancer monitoring prototype: Random Forest, local Mistral-7B RAG, experimental OpenCV analysis, and Flutter/FastAPI/PostgreSQL. Evaluation limits documented; not clinically validated. The final boss of my degree. |
-| 💳 | **[Credit Card Fraud Monitoring](https://github.com/eepycloud/credit-card-fraud-bi)** | Hunted fraud across ~1.85M transactions. Forged features in Alteryx, then lit the Tableau bonfire. [Live dashboard](https://public.tableau.com/views/credit-card-fraud-bi/Dashboard) |
-| 🛡️ | **[Bank Cyberattacks, MITRE ATT&CK](https://github.com/eepycloud/bank-attacks-mitre-analysis)** | Mapped bank attack scenarios to MITRE ATT&CK and scored detection coverage. Know thine enemy. [Live dashboard](https://public.tableau.com/views/bank-attacks-mitre-analysis/CyberAttackLandscape) |
-| 🛒 | **[Olist E-Commerce Analytics](https://github.com/eepycloud/olist-ecommerce-analytics)** | Joined nine tables into one, then charted revenue and delivery across Brazil. Jolly commerce. [Live dashboard](https://public.tableau.com/views/olist-ecommerce-analytics_17894741849530/Dashboard1) |
-| 📡 | **[Telecom Complaints ML](https://github.com/eepycloud/Telecom-Complaints-Data-Processing)** | Summoned 5 classifiers into battle (RF, SVM, KNN, LR, DT) against real telecom complaint data. May the best model win. |
-| 🔐 | **[Network Security Analytics](https://github.com/eepycloud/Network-Security-Predictive-and-Prescriptive-Analytics)** | Predicted network attack metrics using regression, then used GA/PSO to optimize risk scores. Dark magic? Perhaps. |
-| 🤖 | **[WALL-E Surveillance Robot](https://github.com/eepycloud/wall-e-surveillance-robot)** | Autonomous Raspberry Pi 5 robot. Dodges obstacles, snaps photos, sends Telegram alerts. Jolly cooperation with the machine. |
+**BI dashboards** (Alteryx + Tableau)
+- [Credit Card Fraud Monitoring](https://github.com/eepycloud/credit-card-fraud-bi) · [dashboard](https://public.tableau.com/views/credit-card-fraud-bi/Dashboard)
+- [Bank Cyberattacks × MITRE ATT&CK](https://github.com/eepycloud/bank-attacks-mitre-analysis) · [dashboard](https://public.tableau.com/views/bank-attacks-mitre-analysis/CyberAttackLandscape)
+- [Olist E-Commerce Analytics](https://github.com/eepycloud/olist-ecommerce-analytics) · [dashboard](https://public.tableau.com/views/olist-ecommerce-analytics_17894741849530/Dashboard1)
 
----
-
-<div align="center">
-
-### 🎒 &nbsp; Inventory &nbsp; 🎒
-
-</div>
-
-```
-Languages     Python · SQL · Dart · Java · JavaScript · C
-ML / AI       scikit-learn · LightGBM · PyTorch · OpenCV · RAG · Mistral-7B (Ollama) · ChromaDB
-Backend       FastAPI · Pydantic · PostgreSQL · MySQL · SQLite · Firebase · REST APIs
-Data / BI     Alteryx · pandas · NumPy · Tableau · Power BI · Excel
-Tools         Git · Docker · GitHub Actions · Render · Jupyter · VS Code · Postman · UiPath
-Hardware      Raspberry Pi · Arduino
-```
+**Older**\
+[Telecom complaints classification](https://github.com/eepycloud/Telecom-Complaints-Data-Processing) · [Network security analytics](https://github.com/eepycloud/Network-Security-Predictive-and-Prescriptive-Analytics) · [WALL-E robot](https://github.com/eepycloud/wall-e-surveillance-robot)
 
 ---
 
-<div align="center">
+#### Stack
 
-### 📜 &nbsp; Certificates Collected &nbsp; 📜
+**Languages** Python, SQL, Dart, Java, JavaScript, C\
+**ML / AI** scikit-learn, LightGBM, PyTorch, OpenCV, RAG, LLM integration, ChromaDB\
+**Backend** FastAPI, Pydantic, PostgreSQL, MySQL, SQLite, Firebase\
+**Data / BI** pandas, NumPy, Alteryx, Tableau, Power BI\
+**Tools** Git, Docker, GitHub Actions, Render, Jupyter, UiPath
 
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    ACHIEVEMENTS UNLOCKED                     ║
-╠══════════╦═══════════════════════════════════════════════════╣
-║ 🔷 Azure ║  Microsoft DP-900, Data Fundamentals              ║
-║ 🟣 UiPath║  Academy, Automation Developer Prof. Training     ║
-║ 🟠 AWS   ║  Academy Graduate, Cloud Foundations              ║
-║ 🔴 ICT   ║  Huawei ICT Academy, AI & IoT                     ║
-║ 🟡 Code  ║  Udemy, 100 Days of Code (Python)                 ║
-╚══════════╩═══════════════════════════════════════════════════╝
-```
+**Certs** Azure Data Fundamentals (DP-900) · AWS Cloud Foundations · UiPath Automation Developer · Huawei AI & IoT
 
 ---
 
-<div align="center">
+[LinkedIn](https://linkedin.com/in/mthaher) · [Email](mailto:mohammadwthaher@outlook.com) · [Tableau Public](https://public.tableau.com/app/profile/mthaher)
 
-### 🔗 &nbsp; Summon Me &nbsp; 🔗
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mthaher-C89B3C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mthaher/)
-[![Email](https://img.shields.io/badge/Email-contact-C89B3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:mohammadwthaher@outlook.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-C89B3C?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117)](https://public.tableau.com/app/profile/mthaher/vizzes)
-
-<br/>
-
-*"The bearer of the curse seeks souls... and a job."*
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=eepycloud&color=C89B3C&style=flat-square&label=Travelers+who+visited+this+bonfire)
-
-</div>
+<sub>"Even in this darkened world... there are those who study the data."</sub>
