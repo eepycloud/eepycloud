@@ -53,9 +53,9 @@ Alteryx pipelines feeding interactive Tableau dashboards on card fraud, bank cyb
 ## Equipment
 
 ```
-Weapons     Python · SQL · Dart · Java · JavaScript · C
-Catalysts   scikit-learn · LightGBM · PyTorch · OpenCV · RAG · LLMs · ChromaDB
-Armor       FastAPI · Pydantic · PostgreSQL · MySQL · SQLite · Firebase
+Weapons     Python · TypeScript · SQL · Dart · Java · JavaScript · C
+Catalysts   scikit-learn · LightGBM · PyTorch · OpenCV · RAG · Ollama · ChromaDB
+Armor       FastAPI · NestJS · Pydantic · PostgreSQL · MySQL · SQLite · Firebase
 Tools       pandas · Alteryx · Tableau · Power BI · Docker · GitHub Actions · Git
 Relics      Azure DP-900 · AWS Cloud Foundations · UiPath Automation Dev · Huawei AI & IoT
 ```
